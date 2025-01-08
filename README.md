@@ -1,4 +1,4 @@
-## Hi there 👋
+## <div style="color: red">Hello there! </div> I'm Mario, your fullstack developer!
 
 <!--
 **Zmario9/Zmario9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
