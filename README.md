@@ -1,10 +1,9 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/7f598b8a-844c-4b54-a77f-4c218204e11e">
 </picture>
 
 <!--
+
 
 **Zmario9/Zmario9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
