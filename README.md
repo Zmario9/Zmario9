@@ -1,4 +1,4 @@
-<picture align="center">
+<picture align="center" width="100">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/7f598b8a-844c-4b54-a77f-4c218204e11e">
 </picture>
 
