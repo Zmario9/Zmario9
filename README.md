@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="![Spr_forest](https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5)">
  <source media="(prefers-color-scheme: light)" srcset="![Spr_forest](https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="![Spr_forest](https://github.com/user-attachments/assets/4701840b-678a-4b97-ac4f-4d9c97b9aed5)">
 </picture>
 
 <!--
